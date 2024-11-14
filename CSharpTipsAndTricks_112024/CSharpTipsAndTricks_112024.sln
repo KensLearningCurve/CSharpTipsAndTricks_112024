@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeData", "FakeData\FakeDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitOperator", "ExplicitOperator\ExplicitOperator.csproj", "{23AA4039-C286-4040-9813-C07FF5555916}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchValuesInDotNet9", "SearchValuesInDotNet9\SearchValuesInDotNet9.csproj", "{76128E92-DBAB-452D-90D1-A8F63B16A84A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{23AA4039-C286-4040-9813-C07FF5555916}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23AA4039-C286-4040-9813-C07FF5555916}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23AA4039-C286-4040-9813-C07FF5555916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76128E92-DBAB-452D-90D1-A8F63B16A84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76128E92-DBAB-452D-90D1-A8F63B16A84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76128E92-DBAB-452D-90D1-A8F63B16A84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76128E92-DBAB-452D-90D1-A8F63B16A84A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
