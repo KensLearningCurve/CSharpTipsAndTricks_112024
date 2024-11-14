@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexMethod", "IndexMethod\IndexMethod.csproj", "{61DC9158-68D8-455E-B709-16490FE18814}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAndLINQwithEF", "SQLAndLINQwithEF\SQLAndLINQwithEF.csproj", "{1FE456F6-5A85-4DB4-9511-25F3EACCFDDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{61DC9158-68D8-455E-B709-16490FE18814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61DC9158-68D8-455E-B709-16490FE18814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61DC9158-68D8-455E-B709-16490FE18814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE456F6-5A85-4DB4-9511-25F3EACCFDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE456F6-5A85-4DB4-9511-25F3EACCFDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE456F6-5A85-4DB4-9511-25F3EACCFDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE456F6-5A85-4DB4-9511-25F3EACCFDDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
